@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashText", "http://localhost/HashText/HashText.csproj", "{76EA19CC-FE6C-47BE-AB81-65EC572C4212}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{76EA19CC-FE6C-47BE-AB81-65EC572C4212}.Debug.ActiveCfg = Debug|.NET
+		{76EA19CC-FE6C-47BE-AB81-65EC572C4212}.Debug.Build.0 = Debug|.NET
+		{76EA19CC-FE6C-47BE-AB81-65EC572C4212}.Release.ActiveCfg = Release|.NET
+		{76EA19CC-FE6C-47BE-AB81-65EC572C4212}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
